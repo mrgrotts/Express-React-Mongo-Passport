@@ -1,0 +1,13 @@
+server/node_modules
+server/config.js
+client/node_modules
+client/bundle.js
+client/npm-debug.log
+client/yarn-debug.log
+client/.DS_Store
+client/build
+client/coverage
+
+# IntelliJ
+*.iml
+/.idea
